@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Saad
 
+💙 Flutter Developer with 3+ years of experience  
+📱 Building scalable and high-performance mobile apps  
+🔥 Skilled in Firebase, REST APIs, Bloc & Provider  
+
+## 🚀 Projects
+- Joaan App (Food discovery & filtering)
+- Damh App (Car care & tracking system)
+
+## 📫 Contact Me
+- Email: saad23701@gmail.com
+- LinkedIn: https://www.linkedin.com/in/saadali20/
 <!--
 **saad-ali20/saad-ali20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
