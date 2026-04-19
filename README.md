@@ -1,27 +1,61 @@
-# Hi there 👋 I'm Saad
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=saad-ali20&style=flat&color=orange)
+
+</div>
+
+---
+
+# 👋 Hi, I'm Saad
 
 💙 Flutter Developer with 3+ years of experience  
-📱 Building scalable and high-performance mobile apps  
-🔥 Skilled in Firebase, REST APIs, Bloc & Provider  
+📱 Building scalable & high-performance mobile applications  
+🔥 Focused on clean architecture & real-world solutions  
 
-## 🚀 Projects
-- Joaan App (Food discovery & filtering)
-- Damh App (Car care & tracking system)
+---
 
-## 📫 Contact Me
-- Email: saad23701@gmail.com
-- LinkedIn: https://www.linkedin.com/in/saadali20/
-<!--
-**saad-ali20/saad-ali20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
 
-Here are some ideas to get you started:
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-API-green)
+![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue)
+![Provider](https://img.shields.io/badge/Provider-State%20Management-purple)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-Native-green)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-Automation-orange)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📱 Featured Projects
+
+- **Joaan (جوعان)** → Food discovery & filtering app  
+- **Damh (دعمه)** → Car care & service tracking system  
+- **Aklak Taza** → Food platform (in progress)  
+
+---
+
+## 🧠 About Me
+
+```dart
+class AboutMe {
+  final name = "Saad";
+  final role = "Flutter Developer";
+
+  final experience = "3+ years";
+  
+  final skills = [
+    "Flutter & Dart",
+    "Firebase (Auth, Notifications, Dynamic Links)",
+    "REST APIs Integration",
+    "State Management (Bloc & Provider)",
+    "Clean Architecture",
+    "CI/CD (Fastlane, Bitrise)",
+    "Native Android (Kotlin)"
+  ];
+}
