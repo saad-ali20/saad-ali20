@@ -1,6 +1,5 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saad-ali20&style=flat&color=orange)
