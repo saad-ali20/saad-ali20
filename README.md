@@ -15,17 +15,49 @@
 
 ## 🚀 Tech Stack
 
+<div align="center">
+
+<!-- Mobile -->
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-API-green)
-![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue)
-![Provider](https://img.shields.io/badge/Provider-State%20Management-purple)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Native-green)
+
+<!-- Web -->
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+<!-- Backend & APIs -->
+![REST API](https://img.shields.io/badge/REST-API-green)
+![Dio](https://img.shields.io/badge/Dio-HTTP-blue)
+![JSON](https://img.shields.io/badge/JSON-Data-lightgrey)
+
+<!-- Firebase -->
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![FCM](https://img.shields.io/badge/FCM-Push%20Notifications-orange)
+![Dynamic Links](https://img.shields.io/badge/Dynamic%20Links-Deep%20Linking-blue)
+
+<!-- State Management -->
+![Bloc](https://img.shields.io/badge/Bloc-State%20Management-blue)
+![Cubit](https://img.shields.io/badge/Cubit-State%20Management-blueviolet)
+![Provider](https://img.shields.io/badge/Provider-State%20Management-purple)
+
+<!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+<!-- CI/CD -->
+![Fastlane](https://img.shields.io/badge/Fastlane-CI%2FCD-red)
+![Bitrise](https://img.shields.io/badge/Bitrise-CI%2FCD-pink)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 
+</div>
 ---
 
 ## 📱 Featured Projects
@@ -39,10 +71,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saad-ali20&show_icons=true&theme=tokyonight" width="45%">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=saad-ali20&show_icons=true&theme=tokyonight" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-ali20&layout=compact&theme=tokyonight" width="45%">
 
+<br/> -->
+
+<img src="https://streak-stats.demolab.com?user=saad-ali20&theme=tokyonight&hide_border=true" width="90%"/>
+
 </div>
+
 
 ---
 ## 📫 Contact Me
@@ -64,17 +102,119 @@
 ```dart
 class AboutMe {
   final name = "Saad";
-  final role = "Flutter Developer";
+  final role = "Senior Flutter Developer";
 
-  final experience = "3+ years";
-  
+  final experience = "3+ years building production-ready mobile apps";
+
+  final expertise = [
+    "Cross-platform Mobile Development (Flutter)",
+    "Scalable App Architecture & Clean Code",
+    "Performance Optimization & UI/UX Enhancement"
+  ];
+
   final skills = [
     "Flutter & Dart",
-    "Firebase (Auth, Notifications, Dynamic Links)",
-    "REST APIs Integration",
-    "State Management (Bloc & Provider)",
+    "Firebase (Auth, Firestore, Notifications, Dynamic Links)",
+    "REST APIs & Backend Integration",
+    "State Management (Bloc, Cubit, Provider)",
+    "Dependency Injection & Modular Architecture",
+    "CI/CD (Fastlane, Bitrise, Firebase App Distribution)",
+    "Git, GitFlow & Version Control",
+    "Local Databases (SQLite)"
+  ];
+
+  final nativeExperience = [
+    "Android Development (Kotlin)",
+    "Jetpack Compose (Basics & Integration with Flutter)",
+    "Platform Channels Integration"
+  ];
+
+  final tools = [
+    "Jira, Bitbucket",
+    "Postman & API Testing",
+    "Figma (UI Implementation)"
+  ];
+
+  final highlights = [
+    "Developed and deployed multiple apps to App Store & Google Play",
+    "Built real-time features (chat, notifications)",
+    "Worked on large-scale production apps",
+    "Experience with deep linking & analytics integration"
+  ];
+}
+
+class TechStack {
+
+  final languages = [
+    "Dart",
+    "Kotlin",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "PHP"
+  ];
+
+  final frameworks = [
+    "Flutter",
+    "Next.js",
+    "Laravel (Basic)"
+  ];
+
+  final mobile = [
+    "Flutter",
+    "Android (Native)"
+  ];
+
+  final backendAndApis = [
+    "REST APIs",
+    "HTTP/Dio",
+    "JSON Handling"
+  ];
+
+  final firebase = [
+    "Firebase Authentication",
+    "Firebase Cloud Messaging (FCM)",
+    "Firebase Dynamic Links",
+    "Firebase Analytics"
+  ];
+
+  final stateManagement = [
+    "Bloc",
+    "Cubit",
+    "Provider"
+  ];
+
+  final architecture = [
     "Clean Architecture",
-    "CI/CD (Fastlane, Bitrise)",
-    "Native Android (Kotlin)"
+    "Separation of Concerns",
+    "Dependency Injection (Basic)"
+  ];
+
+  final databases = [
+    "SQLite"
+  ];
+
+  final tools = [
+    "Git",
+    "GitHub",
+    "Bitbucket",
+    "Jira",
+    "Postman",
+    "Figma"
+  ];
+
+  final cicd = [
+    "Fastlane",
+    "Bitrise",
+    "Firebase App Distribution"
+  ];
+
+  final otherSkills = [
+    "App Deployment (Google Play & App Store)",
+    "Deep Linking",
+    "Push Notifications",
+    "Real-time Features (Chat)",
+    "UI Implementation from Figma",
+    "Performance Optimization"
   ];
 }
