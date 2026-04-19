@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=saad-ali20&show_icons=true&theme=tokyonight" width="45%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-ali20&layout=compact&theme=tokyonight" width="45%">
 
 </div>
