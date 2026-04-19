@@ -58,7 +58,6 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 
 </div>
----
 
 ## 📱 Featured Projects
 
@@ -140,81 +139,5 @@ class AboutMe {
     "Built real-time features (chat, notifications)",
     "Worked on large-scale production apps",
     "Experience with deep linking & analytics integration"
-  ];
-}
-
-class TechStack {
-
-  final languages = [
-    "Dart",
-    "Kotlin",
-    "JavaScript",
-    "HTML",
-    "CSS",
-    "PHP"
-  ];
-
-  final frameworks = [
-    "Flutter",
-    "Next.js",
-    "Laravel (Basic)"
-  ];
-
-  final mobile = [
-    "Flutter",
-    "Android (Native)"
-  ];
-
-  final backendAndApis = [
-    "REST APIs",
-    "HTTP/Dio",
-    "JSON Handling"
-  ];
-
-  final firebase = [
-    "Firebase Authentication",
-    "Firebase Cloud Messaging (FCM)",
-    "Firebase Dynamic Links",
-    "Firebase Analytics"
-  ];
-
-  final stateManagement = [
-    "Bloc",
-    "Cubit",
-    "Provider"
-  ];
-
-  final architecture = [
-    "Clean Architecture",
-    "Separation of Concerns",
-    "Dependency Injection (Basic)"
-  ];
-
-  final databases = [
-    "SQLite"
-  ];
-
-  final tools = [
-    "Git",
-    "GitHub",
-    "Bitbucket",
-    "Jira",
-    "Postman",
-    "Figma"
-  ];
-
-  final cicd = [
-    "Fastlane",
-    "Bitrise",
-    "Firebase App Distribution"
-  ];
-
-  final otherSkills = [
-    "App Deployment (Google Play & App Store)",
-    "Deep Linking",
-    "Push Notifications",
-    "Real-time Features (Chat)",
-    "UI Implementation from Figma",
-    "Performance Optimization"
   ];
 }
