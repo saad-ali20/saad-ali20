@@ -1,18 +1,15 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=saad-ali20&style=flat&color=orange)
-
-</div>
+<!-- Animated Typing Text -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Saad+%F0%9F%91%8B;Flutter+Developer+%F0%9F%93%B1;Building+Scalable+Apps+%F0%9F%9A%80;4%2B+Years+Experience" />
 
 ---
 
-# 👋 Hi, I'm Saad
+💙 Flutter Developer with 4+ years of experience  
+📱 Building scalable & high-performance mobile apps  
+🔥 Clean Architecture | Firebase | CI/CD  
 
-💙 Flutter Developer with 3+ years of experience  
-📱 Building scalable & high-performance mobile applications  
-🔥 Focused on clean architecture & real-world solutions  
+</div>
 
 ---
 
@@ -27,18 +24,41 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-Native-green)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-Automation-orange)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-orange)
 
 ---
 
 ## 📱 Featured Projects
 
 - **Joaan (جوعان)** → Food discovery & filtering app  
-- **Damh (دعمه)** → Car care & service tracking system  
+- **Damh (دعمه)** → Car care & tracking system  
 - **Aklak Taza** → Food platform (in progress)  
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saad-ali20&layout=compact&theme=tokyonight" width="45%">
+
+</div>
+
+---
+## 📫 Contact Me
+
+<p align="center">
+  <a href="mailto:manarsaadali7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Saad-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/saadali20/">
+    <img src="https://img.shields.io/badge/LinkedIn-Saad-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://github.com/saad-ali20">
+    <img src="https://img.shields.io/badge/GitHub-Saad-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+---
 ## 🧠 About Me
 
 ```dart
