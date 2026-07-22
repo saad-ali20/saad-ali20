@@ -61,12 +61,137 @@
 
 ## 📱 Featured Projects
 
-- **Joaan (جوعان)** → Food discovery & filtering app  
-- **Damh (دعمه)** → Car care & tracking system  
-- **Aklak Taza** → Food platform (in progress)  
+<table>
+<tr>
 
+<td width="33%" valign="top" align="center">
+
+<img src="https://github.com/saad-ali20/saad-ali20/blob/main/ChatGPT%20Image%20Jul%2020,%202026%20at%2001_40_54%20PM.png?raw=true" width="220"/>
+
+### 🚀 Khadamatak
+
+Field Service Marketplace Platform
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Riverpod-green?style=flat-square"/>
+</p>
+
+<details>
+
+<summary><b>📖 View Details</b></summary>
+
+### Overview
+
+A scalable multi-service marketplace connecting customers, technicians, merchants and administrators.
+
+### Features
+
+- Emergency Requests
+- Technician Assignment
+- Push Notifications
+- Maps Integration
+- Admin Dashboard
+
+### Technologies
+
+- Flutter
+- Riverpod
+- Firebase
+- REST APIs
+- Google Maps
+- Clean Architecture
+
+</details>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://github.com/saad-ali20/saad-ali20/blob/main/ChatGPT%20Image%20Jul%2020,%202026%20at%2002_03_51%20PM.png?raw=true" width="220"/>
+
+### 🍔 Joaan
+
+Restaurant Discovery Platform
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Provider-success?style=flat-square"/>
+</p>
+
+<details>
+
+<summary><b>📖 View Details</b></summary>
+
+### Overview
+
+Food discovery application with smart search and personalized recommendations.
+
+### Features
+
+- Smart Filtering
+- QR Menu
+- Stories
+- Timeline
+- Coupons
+
+### Technologies
+
+- Flutter
+- Firebase
+- Provider
+- Riverpod
+- REST APIs
+
+</details>
+
+</td>
+
+<td width="30%" valign="top" align="center">
+
+<img src="https://github.com/saad-ali20/saad-ali20/blob/main/ChatGPT%20Image%20Jul%2020,%202026%20at%2002_27_53%20PM.png?raw=true" width="220"/>
+
+### 💻 Flutter Dashboard
+
+Responsive Admin Dashboard
+
+<p>
+<img src="https://img.shields.io/badge/Flutter_Web-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive-success?style=flat-square"/>
+</p>
+
+<details>
+
+<summary><b>📖 View Details</b></summary>
+
+### Overview
+
+Responsive Flutter Web dashboard for managing users, requests and analytics.
+
+### Features
+
+- User Management
+- Analytics
+- Responsive Layout
+- Notifications
+
+### Technologies
+
+- Flutter Web
+- Firebase
+- Riverpod
+- REST APIs
+
+</details>
+
+</td>
+
+</tr>
+</table>
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
